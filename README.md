@@ -1,5 +1,5 @@
 # Josh L. Espinoza, Ph.D
-<img src="sierra.jpg" alt="isolated" width="200"/>
+<img src="profile.jpg" alt="isolated" width="200"/>
 
 ### About Me:
 I am a data scientist investigating topics in microbial ecology, systems biology, and antibiotic discovery. My expertise is in metagenomics, (un)supervised machine learning, network analysis, next-generation sequencing pipeline development, and feature engineering/selection. I also dabble in eukaryotic gene modeling (plants, diatoms, corals), compositional data analysis, epigenetics, and (Python) package development.
