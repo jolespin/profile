@@ -10,7 +10,7 @@ My experience has allowed me to research a wide range of topics in prokaryotic, 
 
 I consider myself an environmentalist and while many of my projects investigate human health and disease, the methods I develop are intended to be broadly applicable to other research questions.  In particular, I am interested in identifying microbes that can be used in biotechnology (e.g., plastic degrading enzymes, drug discovery), biodiversity, ecological preservation, and [planetary intelligence](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5).
 
-Aside from research, I [draw things](art/README.md) and [produce music](https://soundcloud.com/o-rka/tracks) from time-to-time; though, research has slowed this down.  I'm in coastal Southern California so rock climbing and diving are how I get in it.  Always evolving and always looking for inspiration from nature.  There's only one Earth we have access to and humans are the only instance of (arguably) advanced intelligence; it's our responsibility to preserve and progress.
+Aside from research, I [draw things](art/README.md) and [produce music](https://soundcloud.com/o-rka/tracks) from time-to-time; though, research has slowed this down.  I'm in coastal Southern California so rock climbing and diving are how I get in it.  Always evolving and always seeking inspiration from nature.  The way I see it is that there's only one Earth (that is accessible) and humans are (arguably) the only instance of advanced intelligence;  it's our responsibility to preserve natural ecosystems and progress humanity sustainably.
 
 ### Affiliations:
 * *J. Craig Venter Institute*
